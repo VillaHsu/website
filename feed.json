@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "TIGPBIO",
+    "description": "",
+    "home_page_url": "https://VillaHsu.github.io/website",
+    "feed_url": "https://VillaHsu.github.io/website/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Chan-Min Hsu"
+    },
+    "items": [
+    ]
+}
